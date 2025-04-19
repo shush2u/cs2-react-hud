@@ -17,6 +17,7 @@
 	}
 }
 #matchbar {
+	
 	display: flex;
 	flex-direction: row;
 	position: fixed;
@@ -166,8 +167,9 @@
 		height: 70px;
 		align-items: center;
 		justify-content: center;
+		
 		font-weight: 600;
-		font-size: 30px;
+		font-size: 24px;
 		background-color: var(--sub-panel-color);
 	}
 	.round-thingy {

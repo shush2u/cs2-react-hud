@@ -1,7 +1,7 @@
 {
-    "name":"LHM CS2 Default HUD",
-    "version":"1.0.6",
-    "author":"Lexogrine",
+    "name":"LanPartyUndergroundCS2HUD",
+    "version":"1.0.0",
+    "author":"InfoSA",
     "legacy": false,
     "radar": true,
     "killfeed": false,

@@ -1,4 +1,6 @@
 @import "fonts/montserrat.css";
+@import "fonts/RabidScience.css";
+@import "fonts/pixelcode.css";
 html,
 body,
 #root {
@@ -8,7 +10,7 @@ body,
 
 body {
   margin: 0;
-  font-family: "Rajdhani", 'Montserrat', 'Roboto', sans-serif;
+  font-family: PixelCode, "Rajdhani", 'Montserrat', 'Roboto', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   /*background-image: url('./assets/bg.png');/**/
